@@ -2,6 +2,10 @@
 
 Clone this dotfiles repository, and symlink the various components you wish to use:
 
+### Requirements
+
+* vim
+
 ````
 $ cd
 $ ln -s dotfiles/vim_files                .vim
