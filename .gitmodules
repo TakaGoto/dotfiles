@@ -1,0 +1,24 @@
+[submodule "vim_files/bundle/vim-fugitive"]
+    path = vim_files/bundle/vim-fugitive
+    url = https://github.com/tpope/vim-fugitive.git
+[submodule "vim_files/bundle/ctrlp.vim"]
+    path = vim_files/bundle/ctrlp.vim
+    url = https://github.com/kien/ctrlp.vim.git
+[submodule "vim_files/bundle/switcharoo.vim"]
+    path = vim_files/bundle/switcharoo.vim
+    url = https://github.com/TakaGoto/switcharoo.git
+[submodule "vim_files/bundle/vim-ruby"]
+    path = vim_files/bundle/vim-ruby
+    url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "vim_files/bundle/colors"]
+    path = vim_files/bundle/colors
+    url = git://github.com/chriskempson/vim-tomorrow-theme.git
+[submodule "vim_files/bundle/nerdtree"]
+    path = vim_files/bundle/nerdtree
+    url = https://github.com/scrooloose/nerdtree.git
+[submodule "vim_files/bundle/vim-coffee-script"]
+    path = vim_files/bundle/vim-coffee-script
+    url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "vim_files/bundle/vim-clojure-static"]
+    path = vim_files/bundle/vim-clojure-static
+    url = git://github.com/guns/vim-clojure-static.git
