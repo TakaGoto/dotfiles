@@ -3,7 +3,7 @@
 Clone this dotfiles repository, and symlink the various components you wish to use:
 
 ### Requirements
-
+* install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 * vim
 
 ````
